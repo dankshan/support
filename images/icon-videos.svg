@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Website---Desk-top-Copy-5" transform="translate(-819.000000, -656.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(700.000000, 652.000000)">
+                <g id="play-circle" transform="translate(119.000000, 4.000000)">
+                    <path d="M9.5,0 C4.25201613,0 0,4.25201613 0,9.5 C0,14.7479839 4.25201613,19 9.5,19 C14.7479839,19 19,14.7479839 19,9.5 C19,4.25201613 14.7479839,0 9.5,0 Z M13.9320565,10.4193548 L7.19012097,14.2883065 C6.58487903,14.6254032 5.82258065,14.1925403 5.82258065,13.483871 L5.82258065,5.51612903 C5.82258065,4.81129032 6.58104839,4.37459677 7.19012097,4.71169355 L13.9320565,8.81048387 C14.5602823,9.16290323 14.5602823,10.0707661 13.9320565,10.4193548 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
